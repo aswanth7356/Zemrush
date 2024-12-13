@@ -9,7 +9,7 @@ const Header = () => {
       <div className="header-container">
         <div className="logo">
           <FontAwesomeIcon icon={faChartPie} className="logo-icon" />
-          <span className="logo-text">ZEMRUSH</span>
+          <span className="logo-text">ZEM</span>
         </div>
 
         <nav className="nav">
